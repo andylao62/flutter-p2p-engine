@@ -16,17 +16,6 @@
 - Efficient scheduling policies to enhance the performance of P2P streaming
 - Highly configurable
 - Use IP database to group up peers by ISP and regions
-- Only use Datachannels and PeerConnection modules in WenRTC, which made smaller SDK size(< 2MB)
-
-## Screenshot
-<div style="text-align: center"><table><tr>
-<td style="text-align: center">
-<img src="./figs/list.jpeg" width="250"/>
-</td>
-  <td style="text-align: center">
-<img src="./figs/detail.jpeg" width="250"/>
-</td>
-</tr></table></div>
 
 ## Usage
 See [documentation](https://p2p.cdnbye.com/en/views/flutter/usage.html)
