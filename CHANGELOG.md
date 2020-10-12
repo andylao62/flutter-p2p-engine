@@ -1,4 +1,9 @@
 
+## 0.8.1
+
+* Update SDK version: iOS(1.10.0) Android(1.10.7)
+* Add segmentIdGenerator API.
+
 ## 0.7.0
 
 * Update SDK version: iOS(1.8.0) Android(1.8.1)
